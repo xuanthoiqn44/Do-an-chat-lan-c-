@@ -1,0 +1,14 @@
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\bin\Debug\MyChat.exe.config
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\bin\Debug\MyChat.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\bin\Debug\MyChat.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.frmOpenFile.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.frmClient.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\Client.csproj.GenerateResource.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.Login.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\bin\Debug\FoxLearn.License.dll
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\MyChat.License.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Do_an_chat_Lan\Client\MyChat\obj\Debug\Client.csproj.CopyComplete

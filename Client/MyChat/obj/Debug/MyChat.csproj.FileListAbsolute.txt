@@ -1,0 +1,14 @@
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\bin\Debug\MyChat.exe.config
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\bin\Debug\MyChat.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\bin\Debug\MyChat.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.frmOpenFile.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.frmRename.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.frmServer.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.frmClient.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.frmStart.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.csproj.CoreCompileInputs.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\MyChat\MyChat\obj\Debug\MyChat.csprojAssemblyReference.cache
